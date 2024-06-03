@@ -17,7 +17,7 @@ Jokaisessa luokassa koodi on jaettu pienempiin osiin jäsenfunktioiksi. Lisäksi
 
 ![alt text](ohjekuva-2.png)
 
-- Liitä leikepöydältä repositorion URL-osoite Repository-tekstin vieressä olevaan kenttään. Muut tarvittava tiedot täyttyvät automaattisesti, mutta esimerkiksi Path-tiedostosijainnin voi valita Browse... -napista halutessaan. Paina Next-nappia:
+- Liitä leikepöydältä repositorion URL-osoite Repository-kenttään. Muut tarvittava tiedot täyttyvät automaattisesti, mutta esimerkiksi Path-tiedostosijainnin voi valita Browse... -napista halutessaan. Paina Next-nappia:
 
 ![alt text](ohjekuva-3.png)
 
@@ -25,7 +25,7 @@ Jokaisessa luokassa koodi on jaettu pienempiin osiin jäsenfunktioiksi. Lisäksi
 
 ![alt text](ohjekuva-4.png)
 
-- Configure Project -kohdassa valitse Dektop Qt -sanoilla alkava vaihtoehto eli kohdat Debug, Release, Release with Debug Information, Profile ja Minimum Size Release on oltava valittuina. Jätä sen sijaan valinta pois Python-kohdasta. Paina lopuksi Configure Project -nappia:
+- Configure Project -kohdassa valitse Dektop Qt -sanoilla alkava vaihtoehto. Valitse siis kohdat Debug, Release, Release with Debug Information, Profile ja Minimum Size Release. Jätä sen sijaan valinta pois Python-kohdasta. Paina lopuksi Configure Project -nappia:
 
 ![alt text](ohjekuva-5.png)
 
