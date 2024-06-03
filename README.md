@@ -46,3 +46,7 @@ Jokaisessa luokassa koodi on jaettu pienempiin osiin jäsenfunktioiksi. Lisäksi
 - Ohjelman käyttö onnistuu terminaaliin tulostuvaa opastusta seuraamalla. Muista painaa enter-näppäintä valitsemasi numeron/vaihtoehdon syöttämisen jälkeen:
 
 ![alt text](ohjekuva-9.png)
+
+## Demonstraatio ohjelman toiminnasta:
+
+Ohjelman toimintaa esittelevä esimerkkivideo löytyy seuraavan linkin takaa: 
