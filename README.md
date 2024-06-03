@@ -8,7 +8,7 @@ Pääohjelma- eli main.cpp-tiedostossa hyödynnetään Menu-luokasta tehtyä ins
 Jokaisessa luokassa koodi on jaettu pienempiin osiin jäsenfunktioiksi. Lisäksi periytyvissä luokissa hyödynnetään perittyjä funktioita sekä ylikirjoitettavaa perittyä funktiota. Useassa luokassa käytetään C++ -kielen standardikirjastoja, kuten vector-, string-, iostream- ja fstream-kirjastoja. Tavaratiedot esimerkiksi kirjoitetaan tiedostoon ja luetaan sieltä fstream-kirjaston ominaisuuksia hyödyntämällä. Ohjelma on kommentoitu yksityiskohtaisesti.
 
 ## Projektin tarkasteleminen QT Creator -editorilla (Windows-käyttöjärjestelmällä):
-- Jos käytät Visual Studio 2022 -editoria, siirry seuraavan linkin takana olevaan repositorioon ja seuraa ko. repositorion README-tiedostosta löytyviä ohjeita: https://github.com/inkaliinalauranto/Cplusplus-projekti/blob/master/README.md
+- Jos käytät Visual Studio 2022 -editoria, siirry seuraavan linkin takana olevaan repositorioon ja seuraa ko. repositorion README-tiedostosta löytyviä ohjeita: https://github.com/inkaliinalauranto/Cplusplus-projekti
 - Kopioi leikepöydälle repositorion URL <> Code -napista avautuvan pikku ikkunan HTTPS-otsikon alapuolella olevasta kentästä:
 
 ![alt text](ohjekuva-1.png)
@@ -17,7 +17,7 @@ Jokaisessa luokassa koodi on jaettu pienempiin osiin jäsenfunktioiksi. Lisäksi
 
 ![alt text](ohjekuva-2.png)
 
-- Liitä leikepöydältä repositorion URL-osoite Repositry-tekstin vieressä olevaan kenttään. Muut tarvittava tiedot täyttyvät automaattisesti, mutta esimerkiksi Path-tiedostosijainnin voi valita Browse... -napista halutessaan. Paina Next-nappia:
+- Liitä leikepöydältä repositorion URL-osoite Repository-tekstin vieressä olevaan kenttään. Muut tarvittava tiedot täyttyvät automaattisesti, mutta esimerkiksi Path-tiedostosijainnin voi valita Browse... -napista halutessaan. Paina Next-nappia:
 
 ![alt text](ohjekuva-3.png)
 
@@ -37,7 +37,7 @@ Jokaisessa luokassa koodi on jaettu pienempiin osiin jäsenfunktioiksi. Lisäksi
 
 ![alt text](ohjekuva-7.png)
 
-- Asian saa korjattua vetämällä terminaalin ylälaitaa vetää ylöspäin heti sen jälkeen, kun ohjelman on käynnistänyt play-napista:
+- Asian saa korjattua vetämällä terminaalin ylälaitaa ylöspäin heti sen jälkeen, kun ohjelman on käynnistänyt play-napista:
 
 ![alt text](ohjekuva-8.png)
 
@@ -49,4 +49,4 @@ Jokaisessa luokassa koodi on jaettu pienempiin osiin jäsenfunktioiksi. Lisäksi
 
 ## Demonstraatio ohjelman toiminnasta:
 
-Ohjelman toimintaa esittelevä esimerkkivideo löytyy seuraavan linkin takaa: 
+Ohjelman toimintaa esittelevä esimerkkivideo löytyy seuraavan linkin takaa: https://youtu.be/zqf3zYUio9o
